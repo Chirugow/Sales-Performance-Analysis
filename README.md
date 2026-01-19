@@ -32,6 +32,3 @@ management reporting used in corporate environments.
 - Excel-based analytical and reconciliation models
 - Power BI dashboards for management reporting
 
-## Author
-Chiranth K J  
-Associate Data Analyst | Entry-Level  
