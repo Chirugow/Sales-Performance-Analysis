@@ -36,10 +36,10 @@ This project includes interactive dashboards and reports created using:
 
 ## Power BI & Tableau Dashboard Screenshots
 ### Sales Performance Overview
-![Sales Performance Dashboard](screenshots/sales_performance_dashboard.png)
+![Sales Performance Dashboard](TableauDashboard.png)
 
 ### Revenue & Cost Analysis
-![Revenue Cost Dashboard](screenshots/revenue_cost_analysis.png)
+![Revenue Cost Dashboard](PowerBIdashboard.png)
 
 ## Deliverables
 - SQL queries for data extraction and transformation
@@ -52,5 +52,4 @@ This project includes interactive dashboards and reports created using:
 
 ## Author
 **Chiranth K J**  
-Associate Data Analyst (Entry-Level)  
 GitHub: https://github.com/Chirugow
