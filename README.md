@@ -34,12 +34,15 @@ This project includes interactive dashboards and reports created using:
 - Highlighted key drivers impacting sales performance
 - Improved reporting efficiency by approximately 12–15% (estimated)
 
-## Power BI & Tableau Dashboard Screenshots
+## Power BI, Tableau & Excel Dashboard Screenshots
 ### Sales Performance Overview
 ![Sales Performance Dashboard](TableauDashboard.png)
 
 ### Revenue & Cost Analysis
 ![Revenue Cost Dashboard](PowerBIdashboard.png)
+
+### Revenue & Cost Analysis
+![Sales Performance Analysis Dashboard](Exceldashboard.png)
 
 ## Deliverables
 - SQL queries for data extraction and transformation
