@@ -41,7 +41,7 @@ This project includes interactive dashboards and reports created using:
 ### Revenue & Cost Analysis
 ![Revenue Cost Dashboard](PowerBIdashboard.png)
 
-### Revenue & Cost Analysis
+### Sales Performance Analysis
 ![Sales Performance Analysis Dashboard](Exceldashboard.png)
 
 ## Deliverables
