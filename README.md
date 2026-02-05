@@ -1,4 +1,4 @@
-<h1 align="center">📊 Sales Performance & Revenue Optimization Analysis</h1>
+<h1 align="center">📊 Sales Performance & Profitability Analysis</h1>
 
 <h3 align="center">Chiranth K J | Business & Data Analyst</h3>
 
