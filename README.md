@@ -25,10 +25,10 @@ The analysis simulates **enterprise-level MIS and management reporting** commonl
 
 ## 🎯 Objectives  
 
-- Analyze revenue and cost performance across multiple time periods  
-- Identify trends, variances, and key performance drivers  
-- Build structured MIS dashboards and analytical reports  
-- Improve reporting accuracy and operational efficiency  
+- Evaluate sales, revenue, profit, and cost performance across business segments  
+- Identify trends, seasonal patterns, and key revenue drivers  
+- Analyze profitability by segment and geography  
+- Support data-driven pricing and sales strategy decisions   
 
 ---
 
@@ -37,7 +37,6 @@ The analysis simulates **enterprise-level MIS and management reporting** commonl
 - **Power BI** (Interactive dashboards, KPI tracking, DAX calculations)  
 - **Tableau** (Data visualization, trend analysis, comparative insights)  
 - **Microsoft Excel** (Pivot Tables, Lookups, Power Query)  
-- **SQL** (Joins, Aggregations, Subqueries)  
 
 ---
 
@@ -52,10 +51,11 @@ This project includes interactive dashboards and reports created using:
 
 ## 🔍 Key Analysis Performed  
 
-- Month-on-month and period-wise variance analysis  
-- Revenue vs cost performance comparison  
-- KPI tracking and business performance monitoring  
-- Data validation, reconciliation, and quality checks  
+- Analyzed a large enterprise sales dataset with **100M+ total sales volume** to evaluate revenue, gross sales, profit, and COGS across multiple business segments.  
+- Built **interactive Power BI and Tableau dashboards** tracking key KPIs including Total Sales (118.7M), Gross Sales (127.9M), Profit (16.9M), and COGS (101.8M).  
+- Performed **month-wise and segment-wise analysis** (Enterprise, Government, Midmarket, Small Business, Channel Partners) to identify seasonal trends and high-revenue segments.  
+- Conducted **country-level profitability analysis** to identify top profit-contributing regions and support data-driven pricing and sales strategy decisions.  
+
 
 ---
 
